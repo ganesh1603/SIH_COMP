@@ -1,1 +1,3 @@
-# SIH_COMP
+# paddy_deficiency_detector
+
+
